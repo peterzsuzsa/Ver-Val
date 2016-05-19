@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestProject", "TestProject\TestProject.vcxproj", "{4448A620-63D1-428B-A555-E15179C8F497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LogAnalyzer", "RootFinder\RootFinder.vcxproj", "{E146DBA1-4971-4ED9-95B1-174382DB5F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4448A620-63D1-428B-A555-E15179C8F497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4448A620-63D1-428B-A555-E15179C8F497}.Debug|Win32.Build.0 = Debug|Win32
+		{4448A620-63D1-428B-A555-E15179C8F497}.Release|Win32.ActiveCfg = Release|Win32
+		{4448A620-63D1-428B-A555-E15179C8F497}.Release|Win32.Build.0 = Release|Win32
+		{E146DBA1-4971-4ED9-95B1-174382DB5F47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E146DBA1-4971-4ED9-95B1-174382DB5F47}.Debug|Win32.Build.0 = Debug|Win32
+		{E146DBA1-4971-4ED9-95B1-174382DB5F47}.Release|Win32.ActiveCfg = Release|Win32
+		{E146DBA1-4971-4ED9-95B1-174382DB5F47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
